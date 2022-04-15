@@ -22,7 +22,7 @@
 
 ### Description
 
-Welcome to the WorkTrackApp! The daily work log redefined.
+Welcome to the WorkTrack App!! The daily work log redefined.
 
 WorkTrackApp is here for your project management and tracking needs.
 
